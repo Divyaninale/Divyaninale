@@ -1,10 +1,9 @@
 ![logo](https://github.com/Divyaninale/Divyaninale/blob/main/6ef3284e-8d65-45c6-af87-d18a9e4a77f0.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Divyani Nale</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" width="400" height="" alt="coding" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif">
+<img align="right" width="400" height="" alt="coding" src="https://github.com/Divyaninale/Divyaninale/blob/main/coding-girl-animation-fe7t4gejurmtof8v.gif?raw=true">
    
-    Your browser does not support the video tag.
-</video>
+   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
