@@ -16,15 +16,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyaninale&show_icons=true&locale=en&layout=compact" alt="divyaninale" /></p>
 <table>
    <tr>
-      <td>
-         <br>
-         <br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyaninale&show_icons=true&locale=en" 
-         alt="divyaninale" /></p>
-      </td>
+      
       <td>
          <p><img  align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=divyaninale&" alt="divyaninale" /></p>
       </td>
       </tr>
 </table>
-
-
